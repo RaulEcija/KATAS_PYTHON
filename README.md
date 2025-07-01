@@ -18,7 +18,7 @@ Durante el proyecto se muestran los siguientes conocimientos, de forma personali
 
 ## ESTRUCTURA:
 
-…
+...
 
 ## CONSULTAS INCLUIDAS
 
