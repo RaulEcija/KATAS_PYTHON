@@ -139,10 +139,12 @@ devolver una lista con todas las palabras de la lista original que contengan la 
      5. Muestra el precio final de la compra, teniendo en cuenta el descuento aplicado o sin él.
      6. Recuerda utilizar estructuras de control de flujo como if, elif y else para llevar a cabo estas acciones en tu programa de Python.
 
-RESULTADOS Y CONCLUSIONES:
+## RESULTADOS Y CONCLUSIONES:
 
 
-INSTRUCCIONES PARA EJECUTAR:
+
+
+## INSTRUCCIONES PARA EJECUTAR:
 
 1.	Revisa el Readme.
 2.	Clona el repositorio.
@@ -150,7 +152,7 @@ INSTRUCCIONES PARA EJECUTAR:
 4.	Ejecuta las consultas.
 
 
-HERRAMIENTAS/EXTENSIONES NECESARIAS:
+## HERRAMIENTAS/EXTENSIONES NECESARIAS:
 
 [Python] [Jupyter] [Jupyter Notebook] [Python Docstring Generator]
 
@@ -158,11 +160,11 @@ HERRAMIENTAS/EXTENSIONES NECESARIAS:
 
 [GitHub]
 
-CONTRIBUCIONES:
+## CONTRIBUCIONES:
 
 Este proyecto admite cualquier tipo de contribución, siendo cualquier voluntario en mejorarlo o aportar su grano de arena para impulsarlo. Para ello se puede abrir un pull request o una issue. Es un proyecto totalmente público.
 
-AUTOR:
+## AUTOR:
 
 Autor: Raúl Écija Maeso
 
