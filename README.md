@@ -18,7 +18,25 @@ Durante el proyecto se muestran los siguientes conocimientos, de forma personali
 
 ## ESTRUCTURA:
 
-...
+```bash
+--- KATAS_PYTHON
+
+      --- EJERCICIOS PYTHON
+
+           --- Katas.ipynb
+
+      --- ENUNCIADOS
+
+           --- EnunciadoDataProjectPython.pdf
+
+      --- INFORME
+
+           --- README_Proyecto_PYTHON (KATAS).docx
+
+      --- README.md
+
+
+```
 
 ## CONSULTAS INCLUIDAS
 
