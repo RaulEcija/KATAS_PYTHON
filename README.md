@@ -141,6 +141,21 @@ devolver una lista con todas las palabras de la lista original que contengan la 
 
 ## RESULTADOS Y CONCLUSIONES:
 
+Durante el desarrollo del proyecto se han resuelto con éxito un total de 41 ejercicios de lógica y programación, estructurados en tres bloques progresivos. Estas katas cubren un amplio abanico de conceptos fundamentales en Python, incluyendo:
+-	Manipulación de cadenas y listas.
+-	Funciones lambda, map(), filter() y reduce().
+-	Manejo de excepciones y validaciones.
+-	Estructuras condicionales y bucles.
+-	Introducción a la programación orientada a objetos.
+-	Diseño y uso de funciones reutilizables.
+
+El proyecto ha sido una experiencia enriquecedora que consolidó conocimientos clave de programación en Python. Resolver esta serie de katas no solo permitió aplicar teoría, sino también mejorar la capacidad de razonar y plantear soluciones eficientes. A través de estos ejercicios:
+-	Se fortaleció la lógica algorítmica y la autonomía en la resolución de problemas.
+-	Se demostró la versatilidad del lenguaje Python tanto para tareas simples como complejas.
+-	Se reafirmó la importancia de escribir código limpio, modular y reutilizable.
+
+En resumen, este proyecto puede servir a cualquier principiante en Python para afianzar y mejorar sus conocimientos a la par que resuelve sus posibles dudas al respecto.
+
 
 
 
